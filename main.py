@@ -11,3 +11,6 @@ if st.button("ADD"):
 if st.button("ADD"):
 
     st.write(f"The Addition is {int(firstnumber)+int(secondnumber)}")
+if st.button("ADD"):
+
+    st.write(f"The Addition is {int(firstnumber)+int(secondnumber)}")
