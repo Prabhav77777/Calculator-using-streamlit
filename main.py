@@ -7,7 +7,7 @@ if st.button("ADD"):
     st.write(f"The Addition is {int(firstnumber)+int(secondnumber)}")
 if st.button("SUBTRACT"):
 
-    st.write(f"The Addition is {int(firstnumber)-int(secondnumber)}")
+    st.write(f"The subtraction is {int(firstnumber)-int(secondnumber)}")
 if st.button("ADD"):
 
     st.write(f"The Addition is {int(firstnumber)+int(secondnumber)}")
